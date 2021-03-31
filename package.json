@@ -1,0 +1,24 @@
+{
+  "name": "hotelRating",
+  "version": "1.0.0",
+  "description": "Práctica 2 - Puntuación de hoteles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/citrica/hotelRating.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/citrica/hotelRating/issues"
+  },
+  "homepage": "https://github.com/citrica/hotelRating#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2",
+    "rimraff": "0.0.1-security"
+  }
+}
